@@ -13,7 +13,7 @@ import pandas as pd
 import requests
 import os
 import sys
-from twocaptcha import TwoCaptcha
+from twocaptcha import TwoCaptcha  # Captcha Library
 
 user_data_dir = r"C:\Users\Monster\AppData\Local\Google\Chrome\User Data\Default"
 
